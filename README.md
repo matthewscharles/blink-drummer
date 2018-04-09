@@ -3,4 +3,6 @@ Solenoid with blink sensor for inclusive music workshops, starting from idea by 
 
 Initial prototype used a battery-powered solenoid with a TIP120 transistor, Ann-Louise Davidson added the relay to work with higher voltages.
 
-With thanks to Marcus von Holtzendorf and Bora Bodur.
+![alt text](https://github.com/matthewscharles/blink-drummer/blob/master/media/maker_jam_development.JPG)
+
+With thanks to Marcus von Holtzendorff and Bora Bodur.
